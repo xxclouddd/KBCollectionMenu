@@ -3,7 +3,7 @@
 //  test4
 //
 //  Created by 肖雄 on 16/9/26.
-//  Copyright © 2016年 kuaibao. All rights reserved.
+//  Copyright © 2016年 xiaoxiong. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
